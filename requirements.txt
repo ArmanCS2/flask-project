@@ -1,6 +1,6 @@
 Flask
 Flask-RESTful
 Flask-JWT
-Flask-SQLAlchemy==2.5
+Flask-SQLAlchemy==1.0
 uwsgi
 psycopg2
